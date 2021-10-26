@@ -31,20 +31,14 @@
 <br />
 
 <h2 align="center">About me 😇</h2>
-<p align="center">
-Timezone: Europe/Vienna (CEST)
-</p>
-<br />
-<p>In my latest project, I created an <a href="https://github.com/YuriDevAT/sos-animals">SOS Animal App</a> which will help abandoned animals get help from Animal welfare organizations in Romania when people reporting them via this app. I created this project to participate in my first hackathon - Clerk x Hashnode Hackathon July 2021. 🏆 This project was one of the Runner Up Winners. 🥳</p>
-
-:muscle: I am currently helping others to get into tech too by creating content using Twitter.<br />
-<!--:eyes: I’m currently learning ... TypeScript <br />
-:raising_hand: I’m looking to collaborate with ... someone who is interested in art / music or helping people /environment <br />
-:dizzy_face: I’m looking for help with ... TypeScript<br />-->
-💬 Ask me about anything related to... my content. I am happy to help.<br />
-:ghost: Fun fact: ... I studied Musicology and Japanese studies, but I am now a selftaught developer working in Vienna. <br />
-
-<br />
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 <br />
 <p>
 <h3 align="center"> Languages and Tools</h3>
@@ -71,31 +65,11 @@ Timezone: Europe/Vienna (CEST)
 
 <br />
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YuriDevAT&theme=radical&show_icons=true" width="450"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriDevAT&layout=compact&theme=radical" width="400" />
+<img src="https://github-readme-stats.vercel.app/api?username=pkcnj&theme=radical&show_icons=true" width="450"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkcnj&layout=compact&theme=radical" width="400" />
 </p>
 
 ---
 
-📕 **Latest Blog Posts**
 
-<!-- BLOG-POST-LIST:START -->
-- [Nikki - Online Journal App](https://yuridevat.hashnode.dev/nikki-online-journal-app)
-- [SOS Animals App. A project for the Clerk x Hashnode Hackathon](https://yuridevat.hashnode.dev/sos-animals-hackathon-project)
-- [2 ways to overcome deployment problems with React on Netlify](https://dev.to/yuridevat/2-ways-to-overcome-deployment-problems-with-react-on-netlify-4l5p)
-- [How to add styling to an active link in NextJS ](https://dev.to/yuridevat/how-to-add-styling-to-an-active-link-in-nextjs-593e)
-- [Why to choose NextJS for future projects](https://dev.to/yuridevat/why-to-choose-nextjs-for-future-projects-4k8o)
-<!-- BLOG-POST-LIST:END -->
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
