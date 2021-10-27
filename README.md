@@ -1,30 +1,30 @@
 <p>
-  <h1 align="center"><b>Hello ✨</h1>
+  <h1 align="center"><b>Hello!✨</h1>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/pilarakoch/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href=" https://pkcnj.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-%23ff69b4&?style=for-the-badge&?color=blueviolet alt="Portfolio" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/pilarakoch/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://pkcnj.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-%23ff69b4&?style=for-the-badge&?color=#674EA7 alt="Portfolio" /></a>
 </p>
 <br />
 <h2 align="center">Featured projects: 💻</h2>
 <br />
 
 <p align="center">
-  <img width="400" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png" />
-  <img width="400" src="https://github.com/YuriDevAT/smart-shopping-list/blob/main/public/Thumbnail.png" />
- <a href="https://github.com/YuriDevAT/sos-animals">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=sos-animals&theme=tokyonight" />
+  <img width="400" src="https://github.com/pkcnj/pkcnj/blob/main/bio7.png" />
+  <img width="400" src="https://github.com/pkcnj/pkcnj/blob/main/guess2.png" />
+  <a href="https://github.com/pkcnj/wp-custom">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=pkcnj&repo=wp-custom&theme=radical" />
 </a>
-  <a href="https://github.com/YuriDevAT/smart-shopping-list">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=smart-shopping-list&theme=tokyonight" />
+  <a href="https://github.com/pkcnj/guessing-game">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=pkcnj&repo=guessing-game&theme=radical" />
 </a>
-  <img width="400" src="https://github.com/YuriDevAT/nikki-my-diary/blob/main/public/thumbnail-nikki.png" />
-  <img width="400" src="https://github.com/YuriDevAT/instagram-clone/blob/main/thumbnail-instagram.png" />
-  <a href="https://github.com/YuriDevAT/nikki-my-diary">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=nikki-my-diary&theme=tokyonight" />
+  <img width="400" src="https://github.com/pkcnj/pkcnj/blob/main/unplug.png" />
+  <img width="400" src="https://github.com/pkcnj/pkcnj/blob/main/gh-repo.png" />
+  <a href="https://github.com/pkcnj/unplugged-retreat">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=pkcnj&repo=unplugged-retreat&theme=radical" />
 </a>
-<a href="https://github.com/YuriDevAT/instagram-clone">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=instagram-clone&theme=tokyonight" />
+<a href="https://github.com/pkcnj/github-repo">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=pkcnj&repo=github-repo&theme=radical" />
 </a>
 </p>
 
