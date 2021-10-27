@@ -10,21 +10,17 @@
 <br />
 
 <p align="center">
-  <img width="400" src="https://github.com/pkcnj/pkcnj/blob/main/bio7.png" />
-  <img width="400" src="https://github.com/pkcnj/pkcnj/blob/main/guess2.png" />
   <a href="https://github.com/pkcnj/wp-custom">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=pkcnj&repo=wp-custom&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pkcnj&repo=wp-custom&theme=radical" />
 </a>
   <a href="https://github.com/pkcnj/guessing-game">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=pkcnj&repo=guessing-game&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pkcnj&repo=guessing-game&langs_count=8&theme=radical" />
 </a>
-  <img width="400" src="https://github.com/pkcnj/pkcnj/blob/main/unplug.png" />
-  <img width="400" src="https://github.com/pkcnj/pkcnj/blob/main/gh-repo.png" />
   <a href="https://github.com/pkcnj/unplugged-retreat">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=pkcnj&repo=unplugged-retreat&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pkcnj&repo=unplugged-retreat&theme=radical" />
 </a>
 <a href="https://github.com/pkcnj/github-repo">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=pkcnj&repo=github-repo&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pkcnj&repo=github-repo&theme=radical" />
 </a>
 </p>
 
