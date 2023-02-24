@@ -10,9 +10,6 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/pkcnj/wp-custom">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pkcnj&repo=wp-custom&theme=radical" />
-</a>
   <a href="https://github.com/pkcnj/github-repo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pkcnj&repo=github-repo&theme=radical" />
 </a>
