@@ -2,7 +2,7 @@
   <h1 align="center"><b>Hello!✨</h1>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/pilarakoch/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="[https://www.linkedin.com/in/pilarakoch/](https://www.linkedin.com/in/pilarakoch/)"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://pkcnj.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-%23ff69b4&?style=for-the-badge&?color=#674EA7 alt="Portfolio" /></a>
 </p>
 <br />
