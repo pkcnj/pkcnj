@@ -14,10 +14,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pkcnj&repo=github-repo&theme=radical" />
 </a>
   <br />
-  <a href="https://github.com/pkcnj/guessing-game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pkcnj&repo=guessing-game&langs_count=8&theme=radical" />
-</a>
-  <br />
   <a href="https://github.com/pkcnj/unplugged-retreat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pkcnj&repo=unplugged-retreat&theme=radical" />
 </a>
