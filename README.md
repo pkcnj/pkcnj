@@ -9,17 +9,6 @@
 <h2 align="center">Featured projects: 💻</h2>
 <br />
 
-<p align="center">
-  <a href="https://github.com/pkcnj/github-repo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pkcnj&repo=github-repo&theme=radical" />
-</a>
-  <br />
-  <a href="https://github.com/pkcnj/unplugged-retreat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pkcnj&repo=unplugged-retreat&theme=radical" />
-</a>
-
-</p>
-
 <br />
 <p>
 <h3 align="center"> Languages and Tools</h3>
