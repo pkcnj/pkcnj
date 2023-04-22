@@ -6,38 +6,42 @@
 <a href="https://replit.com/@pkcnj"><img src="https://img.shields.io/badge/Replit-000000?style=for-the-badge&logo=replit&logoColor=white" alt="Replit" /></a>&nbsp;
 <a href="https://twitter.com/pkcnj"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 </div>
-<br />
+<br /> 
+
+- 💬 My background in journalism and library science gave me a solid foundation with web-based research tools. I started coding websites and web-based business intelligence tools to help students, professors, and colleagues fulfill their goals.
   
-  - 🔭 I’m currently working on: **An AI-powered text-based game.**
 
-- 👯 I’m looking to collaborate on: **interesting open-source projects.**
-
-- ⚡ Fun fact: **I love theater, especially musicals.**
+- 👯 I’m looking to collaborate on open-source projects.
+- 🔭 I’m currently working on an AI-powered text game.
+- ⚡ Fun fact: I love theater, especially musicals.
 
 <br />
  
-<h2 align="center"><b>My Favorite Projects <span style='font-size:25px;'>&#x1F4BB;</span></h1>
-  <table align="center">
-  <tr>
-    <td valign="top" width="100%">
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" halign="center" width="100%">
-      <img width="410" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png" />
-       <img width="410" src="https://github.com/the-collab-lab/tcl-19-smart-shopping-list/blob/main/public/Thumbnail.png" />
-     </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <a href="https://github.com/YuriDevAT/sos-animals">
-        <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=sos-animals&theme=tokyonight" />
-      </a>
-      <a href="https://github.com/YuriDevAT/tcl-19-smart-shopping-list">
-        <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=tcl-19-smart-shopping-list&theme=tokyonight" />
-      </a>  
-    </td>
-  </tr>
+  <h2 align="center">Featured Projects <span style='font-size:25px;'>&#x1F4BB;</span></h2>
+
+  <table>
+    <tr>
+    <td width="50%">
+      <h3 align="center" color="white">GitHub Repo Gallery</h3>
+<div align="center" >  
+<a href='https://pkcnj.github.io/github-repo/'> 
+  <img src="https://github.com/pkcnj/github-repo/blob/main/gh-repo.png">
+</a>
+<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=pkcnj&repo=github-repo&theme=tokyonight" />
+</div>
+			</td>
+<td width="50%">
+  <h3 align="center" color="white">Unplugged Retreat</h3>
+<div align="center" >  
+<a href='https://pkcnj.github.io/unplugged-retreat/'>
+	<img src="https://github.com/pkcnj/unplugged-retreat/blob/main/unplug.png">
+</a>
+  <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=pkcnj&repo=unplugged-retreat&theme=tokyonight" />
+</div>
+</td>
+	</tr>
+	
+</div>
 </table>
   
 <br />
