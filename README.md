@@ -24,18 +24,12 @@
     <td width="50%">
       <h3 align="center" color="white">GitHub Repo Gallery</h3>
 <div align="center" >  
-<a href='https://pkcnj.github.io/github-repo/'> 
-  <img src="https://github.com/pkcnj/github-repo/blob/main/gh-repo.png">
-</a>
 <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=pkcnj&repo=github-repo&theme=tokyonight" />
 </div>
 			</td>
 <td width="50%">
   <h3 align="center" color="white">Unplugged Retreat</h3>
 <div align="center" >  
-<a href='https://pkcnj.github.io/unplugged-retreat/'>
-	<img src="https://github.com/pkcnj/unplugged-retreat/blob/main/unplug.png">
-</a>
   <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=pkcnj&repo=unplugged-retreat&theme=tokyonight" />
 </div>
 </td>
