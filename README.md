@@ -8,7 +8,7 @@
 </div>
 <br /> 
 
-- 💬 My background in journalism and library science gave me a solid foundation with web-based research tools. I started coding websites and web-based business intelligence tools to help students, professors, and colleagues fulfill their goals.
+- 💬 My background in journalism and library science gave me a solid foundation with web-based research tools. I started coding websites and web apps to help students, professors, and colleagues fulfill their goals.
   
 
 - 👯 I’m looking to collaborate on open-source projects.
