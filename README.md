@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/pilarakoch/"><img src="https://img.shields.io/badge/LinkedIn-003366?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://twitter.com/pkcnj"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 </div>
-<br /> 
+<br />  
 
 - 💬 My background in journalism and library science gave me a solid foundation with web-based research tools. I started coding websites and web apps to help students, professors, and colleagues fulfill their goals.
   
