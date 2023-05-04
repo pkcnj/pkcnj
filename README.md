@@ -3,7 +3,6 @@
 <div align="center">
 <a href="https://pknewjerseycodes.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-16001A?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/pilarakoch/"><img src="https://img.shields.io/badge/LinkedIn-003366?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://replit.com/@pkcnj"><img src="https://img.shields.io/badge/Replit-000000?style=for-the-badge&logo=replit&logoColor=white" alt="Replit" /></a>&nbsp;
 <a href="https://twitter.com/pkcnj"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 </div>
 <br /> 
