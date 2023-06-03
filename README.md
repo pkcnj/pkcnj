@@ -1,13 +1,13 @@
 <h1 align="center"><b>Hi there, I'm Pilara <span style='font-size:25px;'>&#10024;</span></h1>
 <h3 align="center">A full-stack developer who's excited about solving complex problems with clean code.</h3>
 <div align="center">
-<a href="https://pknewjerseycodes.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-16001A?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
+<a href="https://pilarakoch.com/"><img src="https://img.shields.io/badge/Portfolio-16001A?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/pilarakoch/"><img src="https://img.shields.io/badge/LinkedIn-003366?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://twitter.com/pkcnj"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 </div>
 <br />  
 
-- 💬 My background in journalism and library science gave me a solid foundation with web-based research tools. I started coding websites and web apps to help students, professors, and colleagues fulfill their goals.
+- 💬 In my previous career as a Metadata Librarian, I focused on managing backend library catalog databases and search engine keywords. I found myself more interested in the coding and technical aspects, which led to my interest in pivoting to a Software Engineer role.
   
 
 - 👯 I’m looking to collaborate on open-source projects.
