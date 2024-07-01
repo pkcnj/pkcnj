@@ -7,7 +7,7 @@
 </div>
 <br />  
 
-- 💬 In my previous career as a Metadata Librarian, I focused on managing backend library catalog databases and search engine keywords. I found myself more interested in the coding and technical aspects, which led to my interest in pivoting to a Software Engineer role.
+- 💬 In my previous career as a Digital and Metadata Librarian, I focused on managing backend library catalog databases and search engine keywords. I found myself more interested in the coding and technical aspects, which led to my interest in pivoting to a Software Engineer role.
   
 
 - 👯 I’m looking to collaborate on open-source projects.
