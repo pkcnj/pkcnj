@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi there, I'm Pilara <span style='font-size:25px;'>&#10024;</span></h1>
+<h1 align="center"><b>Hi, I'm Pilara <span style='font-size:25px;'>&#10024;</span></h1>
 <h3 align="center">A full-stack developer who's excited about solving complex problems with clean code.</h3>
 <div align="center">
 <a href="https://pilarakoch.contra.com/"><img src="https://img.shields.io/badge/Portfolio-16001A?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
