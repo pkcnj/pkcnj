@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi, I'm Pilara <span style='font-size:25px;'>&#10024;</span></h1>
 <h3 align="center">A full-stack developer who's excited about solving complex problems with clean code.</h3>
 <div align="center">
-<a href="https://pilarakoch.contra.com/"><img src="https://img.shields.io/badge/Portfolio-16001A?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
+<a href="https://contra.com/pilarakoch"><img src="https://img.shields.io/badge/Portfolio-16001A?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/pilarakoch/"><img src="https://img.shields.io/badge/LinkedIn-003366?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://twitter.com/pkcnj"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 </div>
